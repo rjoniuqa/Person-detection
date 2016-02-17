@@ -12,7 +12,8 @@ public class Driver {
 						"data/training/negatives", 
 						"data/testing/positives", 
 						"data/testing/negatives", 
-						"data/svm_persondetect.xml");
+						"data/svm_persondetect.xml",
+						true, 2);
 	}
 
 }
