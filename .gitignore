@@ -1,7 +1,7 @@
 .settings/
 .classpath
-target/
-data/
-data-backup/
-data-bbackup/
+target/**
+data/**
+data-backup/**
+data-bbackup/**
 svm_persondetect.xml
